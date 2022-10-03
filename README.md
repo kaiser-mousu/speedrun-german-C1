@@ -19,5 +19,12 @@ For now the format will be listing what I learnt, what I think I have doubts on 
 List of weeks : 
   - [Week 1](erste-woche.md)
 
+Tools :
+- [Netzverb](https://www.verbformen.com/)
+- [PONS](https://en.pons.com/translate)
+- [Deepl](https://www.deepl.com/translator)
+
+
 **Ich wünsche dir viele Glück in dieses Erlebnis.**
+
 This is a publicaly viewable but privately held repo, no requests will be accepted and thus I strongly recommmend anyone who wishes to do a similar experiment to fork this repo or create their own one.
