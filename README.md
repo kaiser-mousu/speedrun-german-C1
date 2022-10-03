@@ -15,7 +15,9 @@ But it's not enough, to get to a real minimal C1 level in German I will need tra
  
 These are the short-term objectives, and as a way to track myself I will be committing day by day updating a weekly file.
 For now the format will be listing what I learnt, what I think I have doubts on and need to brush and the objectives for the day after.
-List of weeks : [Week 1](speedrun-german-C1/erste-woche.md)
+
+List of weeks : 
+  - [Week 1](erste-woche.md)
 
 
 **Ich wünsche dir viele Glück in dieses Erlebnis.**
